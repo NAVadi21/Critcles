@@ -51,9 +51,11 @@ pip install -r requirements.txt
 
 - **Document Comparison**: Comparing important words between different documents can help identify similarities and differences in content.
 
+
 ## 🤝 Contribution
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Let's make this project even better together!
+
 
 ## 📜 License
 
