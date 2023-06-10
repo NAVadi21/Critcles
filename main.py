@@ -67,7 +67,7 @@ class MainWindow:
         # Create widgets
         self.label = ttk.Label(self.master, text="Enter Your Text:", background="#C73877", borderwidth=8,  relief="groove", font=("Lucida Sans Unicode", 18))
         self.label.pack(pady=10)
-
+ 
         self.text_input = tk.Text(self.master, height=30, width=70, borderwidth=10, relief="raised")
         self.text_input.insert("1.0", "Write your text here")
         self.text_input.bind("<FocusIn>", self.clear_default_text)
