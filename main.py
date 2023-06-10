@@ -29,7 +29,7 @@ def get_important_words(text, num_topics=5, num_words=10):
     processed_text = remove_stopwords(processed_text)
     dictionary = corpora.Dictionary([processed_text])
 
-    # Create bag-of-words representation of text
+    # Create bag-of-words representation of text 
     bow_text = dictionary.doc2bow(processed_text)
 
     # Train LDA model
