@@ -11,6 +11,7 @@ from collections import defaultdict
 # Preprocess text by removing special characters and lowercasing
 def preprocess_text(text):
     text = re.sub('[^a-zA-Z]', ' ', text)
+ 
     text = text.lower()
     text = text.split()
     return text
