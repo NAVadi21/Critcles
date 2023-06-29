@@ -45,7 +45,7 @@ def get_important_words(text, num_topics=5, num_words=10):
     word_counts = defaultdict(int)
     for word in processed_text:
         if word in important_words:
-            word_counts[word] += 1
+            word_counts[word] += 01
 
     return sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
 
