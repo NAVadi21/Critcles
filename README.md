@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/NAVadi21/Critcles/blob/main/CRITCLES.jpg" alt="Project Logo" width="400" height="300">
 </p>
-# Important Word Extractor :Critcles:
+# Important Word Extractor: Critcles:
 
 A project that extracts important words from text using the Natural Language Processing techniques of preprocessing, stop word removal, and topic modeling with Latent Dirichlet Allocation (LDA). It provides insights into the most significant words in a given text, aiding in understanding the key topics and themes present.
 
