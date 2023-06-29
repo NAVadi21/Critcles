@@ -9,7 +9,7 @@ A project that extracts important words from text using the Natural Language Pro
 ## 📝 Description
 
 This project utilizes the `gensim` library and the NLTK corpus to preprocess the text by removing special characters, converting to lowercase, and removing stop words. It then applies LDA topic modeling to identify the most important words in the text. The extracted words are determined based on their frequency and relevance to the identified topics.
-
+ 
 ## ⚙️ Features
 
 - Preprocesses text by removing special characters and converting to lowercase.
