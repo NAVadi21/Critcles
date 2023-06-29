@@ -17,7 +17,7 @@ def preprocess_text(text):
 
 
 # Remove stop words -the,in,with,etc. from text
-def remove_stopwords(text):
+def remove_stopwords(text): 
     stop_words = set(stopwords.words('english')) 
     return [word for word in text if word not in stop_words]
 
