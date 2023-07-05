@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 5. Enter the text in the provided input field and click the "Submit" button.
 
-6. The program will extract the important words from the text and display them in a new window.
+6. The program will extract the important words from the text and display them in a new window. 
 
 ## 📊 Applications
 
