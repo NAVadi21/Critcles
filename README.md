@@ -13,7 +13,7 @@ This project utilizes the `gensim` library and the NLTK corpus to preprocess the
 ## ⚙️ Features
 
 - Preprocesses text by removing special characters and converting to lowercase.
-- Removes stop words to focus on meaningful words.
+- Removes stop words to focus on meaningful words. 
 - Utilizes LDA topic modeling to identify important words.
 - Provides customizable options for the number of topics and words to extract.
 
