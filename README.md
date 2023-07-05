@@ -17,7 +17,7 @@ This project utilizes the `gensim` library and the NLTK corpus to preprocess the
 - Utilizes LDA topic modeling to identify important words.
 - Provides customizable options for the number of topics and words to extract.
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
 
 To use this project locally, follow these steps:
 
